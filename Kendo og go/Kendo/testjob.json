@@ -1,0 +1,10 @@
+[
+    {
+        "id": "id",
+        "fields": {
+         "id": { "from": "Id", "type": "number", "editable": false },
+         "JobTitle": { "type": "string" },
+         "Color": { "type": "string" }
+        }
+    }
+]

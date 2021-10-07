@@ -1,0 +1,36 @@
+#page {
+    width: 100%;
+    height: 90%;
+    margin: 0%;
+    padding: 0%;
+    word-wrap: break-word;
+    border: 2px solid black;
+  }
+
+#diagram, #toolbox {
+  margin: 20px 0;
+  border-width: 2px;
+  border-style: solid;
+  border-color: lightgrey;
+  height: 90vh;
+  position: relative;
+}
+
+#toolbox {
+  display: flex;
+  padding: 10px;
+  flex-flow: row wrap;
+  align-content: flex-start;
+}
+
+.control {
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  width: 120px;
+  text-align: center;
+  height: fit-content;
+  height: -min-max-content;
+  background-color: white;
+}
+

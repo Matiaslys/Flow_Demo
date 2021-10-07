@@ -1,0 +1,36 @@
+[
+    {
+        "id": "1",
+        "JobTitle": "President",
+        "Color": "",
+        "EntityState": 2,
+        "EntityKey":{
+            "EntitySetName": "OrgCharShapes",
+            "EntityContainerName": "SampleEntities",
+            "EntityKeyValues": [
+                {
+                    "Key": "Id",
+                    "Value": 1
+                }
+            ],
+            "IsTemporaryY": false
+        }
+    },
+    {
+        "id": "2",
+        "JobTitle": "VP Finance",
+        "Color": "#3399cc",
+        "EntityState": 2,
+        "EntityKey":{
+            "EntitySetName": "OrgCharShapes",
+            "EntityContainerName": "SampleEntities",
+            "EntityKeyValues": [
+                {
+                    "Key": "Id",
+                    "Value": 2
+                }
+            ],
+            "IsTemporaryY": false
+        }
+    }
+]
